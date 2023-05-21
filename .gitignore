@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!scraper.py
+!.gitignore
+!LICENSE
+!README.md
